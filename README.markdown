@@ -4,4 +4,4 @@ html/css шаблон для создания кроссбраузерных с�
 
 ### Документация
 
-http://agat.github.com/css-framework/
+http://dvapelnik.github.com/css-framework/
